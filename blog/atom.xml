@@ -8,12 +8,48 @@
     <subtitle>PyWebIO Blog</subtitle>
     <icon>https://pyweb.io/PyWebIO-Docusaurus/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Cloud Deployment]]></title>
+        <id>cloud-deployment</id>
+        <link href="https://pyweb.io/PyWebIO-Docusaurus/blog/cloud-deployment"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out these tutorials on deploying your PyWebIO app to the cloud.]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="check-out-these-tutorials-on-deploying-your-pywebio-app-to-the-cloud">Check out these tutorials on deploying your PyWebIO app to the cloud.<a class="hash-link" href="#check-out-these-tutorials-on-deploying-your-pywebio-app-to-the-cloud" title="Direct link to heading">​</a></h2><hr><h3 class="anchor anchorWithStickyNavbar_mojV" id="how-to-deploy-pywebio-apps-on-google-app-engine">How to deploy PyWebIO apps on Google App Engine<a class="hash-link" href="#how-to-deploy-pywebio-apps-on-google-app-engine" title="Direct link to heading">​</a></h3><h4 class="anchor anchorWithStickyNavbar_mojV" id="by-tirthajyoti-sarkar">by Tirthajyoti Sarkar<a class="hash-link" href="#by-tirthajyoti-sarkar" title="Direct link to heading">​</a></h4><ul><li>GAE</li></ul><p><img loading="lazy" alt="Cloud Deployment GAE" src="/PyWebIO-Docusaurus/assets/images/tirthajyoti_sarkar_GAE-ed529c66c0686f85f4135c450738f9a0.png" width="676" height="507" class="img_E7b_"></p><p><a href="https://github.com/tirthajyoti/PyWebIO/tree/main/Google-App-Engine-make-data" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://dabuttonfactory.com/button.png?t=Read&amp;f=Open+Sans-Bold&amp;ts=26&amp;tc=fff&amp;hp=45&amp;vp=20&amp;c=11&amp;bgt=unicolored&amp;bgc=c0b07e" alt="button" class="img_E7b_"></a></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="truncate"><a class="hash-link" href="#truncate" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_mojV" id="deploy-your-pywebio-app-to-cloud-platform">Deploy your PyWebIO app to cloud platform<a class="hash-link" href="#deploy-your-pywebio-app-to-cloud-platform" title="Direct link to heading">​</a></h3><h4 class="anchor anchorWithStickyNavbar_mojV" id="by-weimin-wang">by Weimin Wang<a class="hash-link" href="#by-weimin-wang" title="Direct link to heading">​</a></h4><ul><li>GAE, Heroku</li></ul><p><img loading="lazy" alt="Cloud Deployment | 10x1000" src="/PyWebIO-Docusaurus/assets/images/weimin_wang_GAE_Heroku-5b41c5d0036bf1086a5fb9ae7f635677.png" width="546" height="410" class="img_E7b_"></p><p><a href="https://github.com/wang0618/pywebio-in-cloud" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://dabuttonfactory.com/button.png?t=Read&amp;f=Open+Sans-Bold&amp;ts=26&amp;tc=fff&amp;hp=45&amp;vp=20&amp;c=11&amp;bgt=unicolored&amp;bgc=c0b07e" alt="button" class="img_E7b_"></a></p>]]></content>
+        <author>
+            <name>Jeff Terrell</name>
+            <uri>https://github.com/JeffTerrell</uri>
+        </author>
+        <author>
+            <name>Hannah Young</name>
+            <uri>https://github.com/Corgibyte</uri>
+        </author>
+        <category label="cloud" term="cloud"/>
+        <category label="host" term="host"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started]]></title>
+        <id>getting-started</id>
+        <link href="https://pyweb.io/PyWebIO-Docusaurus/blog/getting-started"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out this awesome getting started tutorial by Khuyen Tran.]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="check-out-this-awesome-getting-started-tutorial-by-khuyen-tran">Check out this awesome getting started tutorial by Khuyen Tran.<a class="hash-link" href="#check-out-this-awesome-getting-started-tutorial-by-khuyen-tran" title="Direct link to heading">​</a></h3><hr><p><img loading="lazy" alt="PyWebIO Getting Started" src="/PyWebIO-Docusaurus/assets/images/khuyen_tran_getting_started-2b8881cef871d4d6e59da7197a46246b.png" width="660" height="495" class="img_E7b_"></p><h3 class="anchor anchorWithStickyNavbar_mojV" id="pywebio-write-interactive-web-app-in-script-way-using-python">PyWebIO: Write Interactive Web App in Script Way Using Python<a class="hash-link" href="#pywebio-write-interactive-web-app-in-script-way-using-python" title="Direct link to heading">​</a></h3><h4 class="anchor anchorWithStickyNavbar_mojV" id="by-khuyen-tran">by Khuyen Tran<a class="hash-link" href="#by-khuyen-tran" title="Direct link to heading">​</a></h4><ul><li>pip command to install PyWebIO</li><li>Input &amp; output modules</li><li>Two sample apps</li></ul><p><a href="https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://dabuttonfactory.com/button.png?t=Read&amp;f=Open+Sans-Bold&amp;ts=26&amp;tc=fff&amp;hp=45&amp;vp=20&amp;c=11&amp;bgt=unicolored&amp;bgc=c0b07e" alt="button" class="img_E7b_"></a></p><p>Happy Coding!</p>]]></content>
+        <author>
+            <name>Jeff Terrell</name>
+            <uri>https://github.com/JeffTerrell</uri>
+        </author>
+        <author>
+            <name>Hannah Young</name>
+            <uri>https://github.com/Corgibyte</uri>
+        </author>
+        <category label="setup" term="setup"/>
+        <category label="PyWebIO" term="PyWebIO"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Welcome To The PyWebIO Blog]]></title>
         <id>welcome</id>
         <link href="https://pyweb.io/PyWebIO-Docusaurus/blog/welcome"/>
-        <updated>2022-03-29T00:00:00.000Z</updated>
+        <updated>2022-03-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A great resource for articles, tutorials, and industry news focused on the PyWebIO framework!]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="a-great-resource-for-articles-tutorials-and-industry-news-focused-on-the-pywebio-framework">A great resource for articles, tutorials, and industry news focused on the PyWebIO framework!<a class="hash-link" href="#a-great-resource-for-articles-tutorials-and-industry-news-focused-on-the-pywebio-framework" title="Direct link to heading">​</a></h3><h2 class="anchor anchorWithStickyNavbar_mojV" id="lets-learn-together">Lets learn together!<a class="hash-link" href="#lets-learn-together" title="Direct link to heading">​</a></h2><p><img loading="lazy" alt="PyWebIO Logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIsAAACLCAYAAABRGWr/AAAB70lEQVR4nOzdwUlDQRRA0Y+41xLsJCktpSUd2YEu/Lj1LvJ9mXAOvJ3IEy4MDkzyskEkFjKxkImFTCxkYiETC5lYyMRCJhYysZCJhUwsZGIhEwuZWMjEQiYWMrGQiYVMLGRiIRMLmVjIxPLjsm3b1x9zmV5ymljIxEImFjKxkImF7HV6gYWcFvqP6LrPXYmlO++zirvH4hgiEwuZWMjEQiYWMrGQiYXMPUt33bbtNr3Efjk4ct8jlu72IDe4l6lYHENkYiETC5lYyMRCJhYysZCJhUwsZGIhEwuZWMjEQiYWMrGQiYVMLGRiIRMLmVjIxEImFjKxkB35buh9nxW8xZ/5+Iddyh5Pp3wQsTlmDnkM5xgiEwuZWMjEQiYWMrGQiYVs+sN8PveZVi4QH2XXYpU9f6307WAr7TrGMUQmFjKxkImFTCxkYiETC5lYyMRCJhYysZCJhUwsZGIhEwuZWMjEQiYWMrGQiYVMLGRiIRMLmVjIxEImFrLpt86nB3kWeppeYAXTsZz3YQGOITKxkImFTCxkYiETC5lYyI68Z7ke+LsnPNvfA8dxDJGJhUwsZGIhEwuZWMjEQiYWMrGQiYVMLGRiIRMLmVjIxEImFjKxkImFTCxkYiETC5lYyMRCJhYysZCJhUwsZN8BAAD//xS+imiY22u8AAAAAElFTkSuQmCC" width="139" height="139" class="img_E7b_"></p>]]></content>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="a-great-resource-for-articles-tutorials-and-industry-news-focused-on-the-pywebio-framework">A great resource for articles, tutorials, and industry news focused on the PyWebIO framework!<a class="hash-link" href="#a-great-resource-for-articles-tutorials-and-industry-news-focused-on-the-pywebio-framework" title="Direct link to heading">​</a></h3><hr><h2 class="anchor anchorWithStickyNavbar_mojV" id="lets-learn-together">Lets learn together!<a class="hash-link" href="#lets-learn-together" title="Direct link to heading">​</a></h2><p><img loading="lazy" alt="PyWebIO Logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIsAAACLCAYAAABRGWr/AAAB70lEQVR4nOzdwUlDQRRA0Y+41xLsJCktpSUd2YEu/Lj1LvJ9mXAOvJ3IEy4MDkzyskEkFjKxkImFTCxkYiETC5lYyMRCJhYysZCJhUwsZGIhEwuZWMjEQiYWMrGQiYVMLGRiIRMLmVjIxPLjsm3b1x9zmV5ymljIxEImFjKxkImF7HV6gYWcFvqP6LrPXYmlO++zirvH4hgiEwuZWMjEQiYWMrGQiYXMPUt33bbtNr3Efjk4ct8jlu72IDe4l6lYHENkYiETC5lYyMRCJhYysZCJhUwsZGIhEwuZWMjEQiYWMrGQiYVMLGRiIRMLmVjIxEImFjKxkB35buh9nxW8xZ/5+Iddyh5Pp3wQsTlmDnkM5xgiEwuZWMjEQiYWMrGQiYVs+sN8PveZVi4QH2XXYpU9f6307WAr7TrGMUQmFjKxkImFTCxkYiETC5lYyMRCJhYysZCJhUwsZGIhEwuZWMjEQiYWMrGQiYVMLGRiIRMLmVjIxEImFrLpt86nB3kWeppeYAXTsZz3YQGOITKxkImFTCxkYiETC5lYyI68Z7ke+LsnPNvfA8dxDJGJhUwsZGIhEwuZWMjEQiYWMrGQiYVMLGRiIRMLmVjIxEImFjKxkImFTCxkYiETC5lYyMRCJhYysZCJhUwsZN8BAAD//xS+imiY22u8AAAAAElFTkSuQmCC" width="139" height="139" class="img_E7b_"></p>]]></content>
         <author>
             <name>Jeff Terrell</name>
             <uri>https://github.com/JeffTerrell</uri>
@@ -35,34 +71,6 @@
             <name>Sébastien Lorber</name>
             <uri>https://sebastienlorber.com</uri>
         </author>
-        <category label="docusaurus" term="docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>long-blog-post</id>
-        <link href="https://pyweb.io/PyWebIO-Docusaurus/blog/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Endilie Yacop Sucipto</name>
-            <uri>https://github.com/endiliey</uri>
-        </author>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>first-blog-post</id>
-        <link href="https://pyweb.io/PyWebIO-Docusaurus/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
-        </author>
-        <category label="hola" term="hola"/>
         <category label="docusaurus" term="docusaurus"/>
     </entry>
 </feed>
